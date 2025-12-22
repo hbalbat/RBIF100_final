@@ -11,6 +11,8 @@ Variants are clusted, not evenly spread across the gene. The lowest number of va
 
 Color was used to distinguish variant categories in Figure 1 and Figure 2. One additional figure (Figure 3) was created to further depict variant density analyses.
 
+EXPLAIN WORKFLOW, FINDINGS, AND INTERPRETATIONS
+
 <img src="figure1.png" alt="Figure 1: Variant Type Distribution Across the APOE Gene" width="400">
 <img src="figure2.png" alt="Figure 2: Variant Density Across the APOE Gene" width="500">
 <img src="figure3.png" alt="Figure 2: Variant Density Per Genomic Bin for the APOE Gene" width="300">
